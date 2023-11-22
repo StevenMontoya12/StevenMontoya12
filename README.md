@@ -12,4 +12,5 @@
 - I´m enthusiast about Cybersecurity
 - Future Goals: Learn more technologies and never stop to learn
 - Career: Development Engineering and Software Technologies
+- I love programming, exercising and resolve problems
 </div>
