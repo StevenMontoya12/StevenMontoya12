@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center;">
-  <img align="right" alt="GIF" height="9.375 rem" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+  <img align="right" alt="GIF" height="130 px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
   <div>
     <ul>
