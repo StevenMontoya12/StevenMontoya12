@@ -84,7 +84,7 @@
 
 
 
-## ontribution graph
+## Contribution graph
 
 ![gitartwork](gitartwork.svg)
 
