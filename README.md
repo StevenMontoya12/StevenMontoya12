@@ -84,8 +84,9 @@
 
 
 
-## Snake eating my contribution graph
-
-![Snake animation](https://github.com/{{StevenMontoya12}}/{{StevenMontoya12}}/blob/output/github-contribution-grid-snake.svg)
+## ontribution graph
 
 ![gitartwork](gitartwork.svg)
+
+
+![Snake animation](https://github.com/{{StevenMontoya12}}/{{StevenMontoya12}}/blob/output/github-contribution-grid-snake.svg)
