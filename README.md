@@ -35,9 +35,8 @@
 
 - **Front-End Development**
 
-<p width="15" height="15">
-<img src="https://skillicons.dev/icons?i=react,js,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" width="40" height="40" />
+
 
 - **Softwares and Tools**:
 
