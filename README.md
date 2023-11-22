@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F522&random=false&width=435&lines=Hi%2C+I%C2%B4m+Steven+Montoya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&pause=30000&color=D7D7D7&center=true&random=false&width=435&lines=Hi%2C+I%C2%B4m+Steven+Montoya)](https://git.io/typing-svg)
 
 <span>🌱 :computer: About me</span>
  <p align="left">
