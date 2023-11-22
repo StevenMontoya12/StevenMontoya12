@@ -1,5 +1,4 @@
 ### Hi ,I´m Steven Montoya 👋
-![image](https://github.com/StevenMontoya12/StevenMontoya12/assets/108153107/bf0dc10e-7525-4490-9b21-5d579a3b2fe3)
 
 <!--![Uploading image.png…]()
 
