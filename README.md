@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=40&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi%2C+I%C2%B4m+Steven+Montoya+%F0%9F%92%AC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=40&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=Hi%2C+I%C2%B4m+Steven+Montoya+%F0%9F%92%AC" alt="Typing SVG" /></a>
 
 <h2>🌱 :computer: About me</h2>
  <p align="left">
