@@ -2,4 +2,7 @@
  <h1> Hi ,I´m Steven Montoya 👋</h1>
 </div>
 
-![Static Badge](https://img.shields.io/badge/HTML-orange)
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
