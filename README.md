@@ -29,14 +29,15 @@
 
 - **Languages**:
     
-<p width="40" height="40">
+<p width="35" height="35">
 <img src="https://skillicons.dev/icons?i=java,python"/>
- </p>
-- **Front-End Development**:
+</p>
 
+- **Front-End Development**
 
+<p width="35" height="35">
 <img src="https://skillicons.dev/icons?i=react,js,html,css"/>
-
+</p>
 
 - **Softwares and Tools**:
 
