@@ -33,9 +33,9 @@
   
 - **Front-End Development**:
 
-
+<div width="40" height="40">
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
-
+</div>
 
 
 - **Softwares and Tools**:
