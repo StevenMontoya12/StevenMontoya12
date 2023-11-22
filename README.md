@@ -1,4 +1,5 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=30&duration=3500&pause=1500&color=FFFFFF&vCenter=true&random=false&width=410&lines=Hi%2C+I%C2%B4m+Steven+Montoya+%F0%9F%92%AC" alt="Typing SVG" /></a>
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+![descargar](https://github.com/StevenMontoya12/StevenMontoya12/assets/108153107/86cea2b6-273c-4b55-ac9c-fef838dcfc3c)
 
 <h2>🌱 :computer: About me</h2>
  <p align="left">
@@ -6,5 +7,3 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
