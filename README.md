@@ -86,8 +86,8 @@
 
 ## Contribution graph
 
-![gitartwork](gitartwork.svg)
 
+ <!-- ![gitartwork](gitartwork.svg) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StevenMontoya12/StevenMontoya12/output/github-contribution-grid-snake-dark.svg">
