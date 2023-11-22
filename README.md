@@ -82,10 +82,10 @@
 <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
 
-![Snake animation](https://github.com/{{StevenMontoya12}}/{{StevenMontoya12}}/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Snake eating my contribution graph
 
-
+![Snake animation](https://github.com/{{StevenMontoya12}}/{{StevenMontoya12}}/blob/output/github-contribution-grid-snake.svg)
 
 ![gitartwork](gitartwork.svg)
