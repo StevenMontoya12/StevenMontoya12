@@ -50,7 +50,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenmontoya12&show_icons=true&locale=en&layout=compact" alt="stevenmontoya12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenmontoya12&show_icons=true&locale=en" alt="stevenmontoya12" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenmontoya12&" alt="stevenmontoya12" /></p>
 
