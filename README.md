@@ -5,12 +5,18 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English Spanish-dodgerblue" />
 </p>
-<div>
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- I´m currently learning about BackEnd and FrontEnd technologies
-- I´m enthusiast about Cybersecurity
-- Future Goals: Learn more technologies and never stop to learn
-- Career: Development Engineering and Software Technologies
-- I love programming, exercising and resolve problems
+<div style="display: flex; align-items: center;">
+  <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+  <div>
+    <ul>
+      <li>I'm currently learning about BackEnd and FrontEnd technologies</li>
+      <li>I'm enthusiastic about Cybersecurity</li>
+      <li>Future Goals: Learn more technologies and never stop learning</li>
+      <li>Career: Development Engineering and Software Technologies</li>
+      <li>I love programming, exercising, and solving problems</li>
+    </ul>
+  </div>
 </div>
+
