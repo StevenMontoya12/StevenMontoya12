@@ -67,11 +67,12 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenmontoya12&show_icons=true&locale=en&layout=compact" alt="stevenmontoya12" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenmontoya12&" alt="stevenmontoya12" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@stevenhulk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stevenhulk12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/steven de dios montoya hernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven de dios montoya hernández" height="30" width="40" /></a>
+<a href="https://instagram.com/_stevendmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_stevendmh" height="30" width="40" /></a>
+<a href="https://discord.gg/#0672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0672" height="30" width="40" /></a>
 
 
 
