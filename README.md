@@ -1,6 +1,5 @@
-<div align='center'>
- <h1> Hi ,I´m Steven Montoya 👋</h1>
-</div>
+# Hi ,I´m Steven Montoya 👋</h1>
+
 
 <h2>🌱 :computer: About me</h2>
  <p align="left">
