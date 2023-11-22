@@ -2,8 +2,10 @@
 
 <h2>🌱 :computer: About me</h2>
  <p align="left">
+  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English Spanish-dodgerblue" />
+
 </p>
 
 <div style="display: flex; align-items: center;">
@@ -11,11 +13,11 @@
 
   <div>
     <ul>
-      <li>I'm currently learning about BackEnd and FrontEnd technologies</li>
-      <li>I'm enthusiastic about Cybersecurity</li>
-      <li>Future Goals: Learn more technologies and never stop learning</li>
-      <li>Career: Development Engineering and Software Technologies</li>
-      <li>I love programming, exercising, and solving problems</li>
+      <li>📚 I'm currently learning about BackEnd and FrontEnd technologies</li>
+      <li>✨I'm enthusiastic about Cybersecurity</li>
+      <li>🔥	Future Goals: Learn more technologies and never stop learning</li>
+      <li>🔧Career: Development Engineering and Software Technologies</li>
+      <li>💓I love programming, exercising, and solving problems</li>
     </ul>
   </div>
 </div>
