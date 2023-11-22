@@ -75,7 +75,7 @@
 
 
 
-## 🐍 Snake Eating my Contribution graph
+## 🐍 Snake Eating my Contribution Graph
 
 
  <!-- ![gitartwork](gitartwork.svg) -->
