@@ -72,15 +72,6 @@
 
 
 
-<p align="left">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/NVIDIA-GTX1660 TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-</p>
 
 
 
