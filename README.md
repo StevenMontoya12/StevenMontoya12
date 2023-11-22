@@ -29,13 +29,13 @@
 
 - **Languages**:
     
-
+<p width="40" height="40">
 <img src="https://skillicons.dev/icons?i=java,python"/>
-  
+ </p>
 - **Front-End Development**:
 
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css"/>
 
 
 - **Softwares and Tools**:
