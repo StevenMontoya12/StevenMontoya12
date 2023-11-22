@@ -29,12 +29,13 @@
 
 - **Languages**:
     
-     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+
+<img src="https://skillicons.dev/icons?i=java,python"/>
   
 - **Front-End Development**:
 
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" width="40" height="40"/>
 
 
 - **Softwares and Tools**:
