@@ -46,6 +46,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 
 
+
  
  
 </p>
@@ -60,7 +61,7 @@
 
 <a href="mailto:stevenmontoya770@gmail.com" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="40" /></a>
-<img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg" height="25"/>
+
 
 
 
