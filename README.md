@@ -2,12 +2,12 @@
 
 <h2>🌱 :computer: About me</h2>
  <p align="left">
-
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English Spanish-dodgerblue" />
  
-
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English Spanish-dodgerblue" /> 
 </p>
+
+
 
 <div style="display: flex; align-items: center;">
   <img align="right" alt="GIF" height="150 px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -44,7 +44,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+
+
+ 
+ 
 </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,10 +59,17 @@
 <a href="https://instagram.com/_stevendmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_stevendmh" height="30" width="40" /></a>
 
 <a href="mailto:stevenmontoya770@gmail.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="40" />
-</a>
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" width="40" /></a>
+<img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg" height="25"/>
+
+
+
+
 
 </p>
+
+
+
 
 <p align="left">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
